@@ -1,5 +1,4 @@
-# digital-clock-ducks-version-
-
+# digital clock (with ducks)
 
 This is a digital clock that will tell you the time in 5 different timezones including your own local time. You can change the timezone through the buttons and the background of the screen with the 'change color' button. 
 
